@@ -9,7 +9,8 @@
 
 ### Connect with me:
 
-[![linkedIn](./img/linkedin-light.svg)](www.linkedin.com/in/juan-repeto-fullstack)
+<!-- [![linkedIn](./img/linkedin-light.svg)](www.linkedin.com/in/juan-repeto-fullstack) -->
+[linkedIn](www.linkedin.com/in/juan-repeto-fullstack)
 <!-- [![website](./img/linkedin-dark.svg)](www.linkedin.com/in/juan-repeto-fullstack) -->
 
 
